@@ -113,6 +113,7 @@ class MainActivity : AppCompatActivity() {
                recordStatus.visibility = View.INVISIBLE
 
            }
+
            displayRecords()
         }
 
