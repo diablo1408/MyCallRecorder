@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="50dp"
+    android:background="#303f9f"
+    android:id="@+id/popupbox"
+    >
+    <Button
+        android:id="@+id/recordbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Record"
+        android:textSize="30sp"
+        android:textColor="#FFFFFF"
+        />
+    <TextView
+        android:id="@+id/cancelbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cancel"
+        android:textSize="30sp"
+
+        android:textColor="#FFFFFF"
+        />
+
+
+</LinearLayout>
